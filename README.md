@@ -1,4 +1,6 @@
 # UTILIDADE_PUBLICA
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/28a3307b-772f-4feb-9b14-2be62b4857ed" />
+
 Brasil passa de 5 milhões de casos de dengue Em fevereiro, a secretária de Vigilância em Saúde do Ministério da Saúde, Ethel Maciel, afirmou que a 
 estimativa do Ministério da Saúde era de que o país registrasse, neste ano inteiro, 4,2 milhões de casos.
 Segundo dados do Painel de Arboviroses do Ministério da Saúde, o país registrou, nas primeiras vinte semanas deste ano, as seguintes taxas relativas à doença:
